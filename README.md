@@ -23,6 +23,8 @@
 ### 프레임워크 및 라이브러리 (Frameworks & Libraries)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 도구 (Tools)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -32,7 +34,7 @@
 ## 🚀 프로젝트 (Projects)
 ### 명일방주 게임 도우미 웹사이트 (JSP 팀 프로젝트/2024.09 ~ 2024.12)
 - **설명**: 명일방주 게임 플레이어를 위한 종합 정보 및 계산 도구 제공 웹사이트
-- **역할**: 데이터베이스 설계 및 웹 기능 개발
+- **역할**: 데이터베이스 설계 및 웹 기능 개발 (팀 리더)
 - **기술 스택**: JSP & Servlet, JavaScript, HTML5, CSS3, MS-SQL
 - **기간**: 2024.09 ~ 2024.12 (10주)
 - **링크**: [GitHub Repository](#)
@@ -44,7 +46,7 @@
 
 ### 디버그 비주얼 (코드 시각화 웹IDE 플랫폼/2025.3 ~ 현재)
 - **설명**: 코드 실행 과정을 실시간으로 시각화해주는 웹IDE 환경 플랫폼
-- **역할**: 프론트엔드
+- **역할**: 프론트엔드 개발 및 UI/UX 설계
 - **기술 스택**: JavaScript, Java (Spring Boot), React, Docker, MySQL, AWS (EC2, RDS, S3)
 - **기간**: 진행 중
 - **링크**: [GitHub Repository](https://github.com/DMU-DebugVisual)
