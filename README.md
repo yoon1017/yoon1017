@@ -27,6 +27,7 @@
 ### 도구 (Tools)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ## 🚀 프로젝트 (Projects)
 ### 명일방주 게임 도우미 웹사이트 (JSP 팀 프로젝트/2024.09 ~ 2024.12)
