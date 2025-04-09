@@ -1,10 +1,10 @@
-# 홍길동 (Hong Gildong)
+# 윤동준 (Yoon DongJun)
 
 ## 👋 소개 (Introduction)
 컴퓨터공학을 전공하는 대학생으로 웹 개발과 데이터 분석에 관심이 있습니다. 새로운 기술을 배우고 실제 프로젝트에 적용하는 것을 좋아합니다.
 
 ## 📞 연락처 (Contact)
-- 이메일: example@email.com
+- 이메일: booohooo20@email.com
 - 블로그: [티스토리 블로그](https://example.tistory.com)
 - 링크드인: [LinkedIn Profile](https://linkedin.com/in/username)
 
